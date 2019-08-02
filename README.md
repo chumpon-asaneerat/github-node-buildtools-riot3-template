@@ -1,2 +1,2 @@
-# github-node-buildtools-template
-The github node with buildtools template
+# github-node-buildtools-riot3-template
+The github node with buildtools with riot 3 template

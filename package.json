@@ -1,21 +1,21 @@
 {
-  "name": "github-node-buildtools-template",
+  "name": "github-node-buildtools-riot3-template",
   "version": "1.0.0",
-  "description": "The github node with buildtools template",
+  "description": "The github node with buildtools with riot 3 template",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chumpon-asaneerat/github-node-buildtools-template.git"
+    "url": "git+https://github.com/chumpon-asaneerat/github-node-buildtools-riot3-template.git"
   },
   "author": "Chumpon Asaneerat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chumpon-asaneerat/github-node-buildtools-template/issues"
+    "url": "https://github.com/chumpon-asaneerat/github-node-buildtools-riot3-template/issues"
   },
-  "homepage": "https://github.com/chumpon-asaneerat/github-node-buildtools-template#readme",
+  "homepage": "https://github.com/chumpon-asaneerat/github-node-buildtools-riot3-template#readme",
   "devDependencies": {
     "@types/dot": "^1.1.3",
     "@types/gulp": "^4.0.6",
